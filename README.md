@@ -18,8 +18,18 @@ Best-Selling Product: The top category is coffee, with Barista Espresso being th
 Discount Strategies: Introduce discounts or promotional offers on low-performing products at the Astoria store to boost sales. Inventory Optimization: Consider limiting in-store display of underperforming products, like merchandise clothing, and shift to an online order-only model. This can help reduce operational costs.
 
 ---
+## Tools & library -
+
+<img src="https://github.com/gokuljujgar07/Coffee_Sales_Dashboard/blob/main/excel.jpg" alt="logo" width="100" height="50"/>
+
 
 # Data Story -
 ## This dashboard was designed to support strategic discussions with higher-ups and provide a clear, data-driven understanding of store performance. The goal is to help identify opportunities for growth and cost optimization.
 
+
+# Screenshot -
+
+<img src="https://github.com/gokuljujgar07/Coffee_Sales_Dashboard/blob/main/Coffee_Sales_Analysis.png?raw=true" alt="myql-logo" width="1000" height="500"/>
+
+          (https://github.com/gokuljujgar07/Coffee_Sales_Dashboard/blob/main/Coffee_Sales_Analysis.png?raw=true) &nbsp;
 
