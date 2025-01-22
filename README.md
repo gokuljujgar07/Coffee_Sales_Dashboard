@@ -1,18 +1,17 @@
 # Coffee-Sales-Dashboard
 
-About this project
-This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.
+This dashboard presents insights to the regional manager of a coffee chain with three stores. The goal is to provide actionable insights to optimize operations across the stores.
 
-I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.
+## Key Highlights:
+Revenue Growth: Revenue has shown a consistent upward trend, reflecting positive business growth. Busiest Days: Mondays, Thursdays, and Fridays experience the highest footfall, aligning with the workweek trend when people are energized and prefer coffee breaks. Busiest Hours: Morning hours are the peak times, as customers frequent the coffee shops on their way to work.
 
-I have noticed that the Revenue is continuously growing.
+## Top Insights:
+Best-Selling Product: The top category is coffee, with Barista Espresso being the most popular product across all stores. Low-Performing Products: Certain flavors, coffee beans, and merchandise items show lower sales. For instance, merchandise clothing sales at the Astoria store are significantly lower than in other stores.
 
-The busiest days are Mondays, Thursdays and Fridays in general. This does make sense since people do like to visit coffee shops when they are all jacked up for work.
+## Data-Driven Recommendations:
+Discount Strategies: Introduce discounts or promotional offers on low-performing products at the Astoria store to boost sales. Inventory Optimization: Consider limiting in-store display of underperforming products, like merchandise clothing, and shift to an online order-only model. This can help reduce operational costs.
 
-The busiest hours are in the mornings when people are visiting their offices.
+# Data Story -
+## This dashboard was designed to support strategic discussions with higher-ups and provide a clear, data-driven understanding of store performance. The goal is to help identify opportunities for growth and cost optimization.
 
-This is trend is similar for all the stores.
 
-The top category is coffee and the product is Barista Espresso across the board.
-
-# Data Story - I have noticed that the bottom products for all the stores include some flavours and other products like coffee beans. Also, the merchandise clothing for Astoria is way less as compared to other stores. We shall provide some discount offers to this store to increase sales. Or else completely remove it from displaying at this store and keep it available on order only. This shall help us reduce costs of operations.
