@@ -1,5 +1,8 @@
 # Coffee-Sales-Dashboard
 
+---
+
+
 This dashboard presents insights to the regional manager of a coffee chain with three stores. The goal is to provide actionable insights to optimize operations across the stores.
 
 ---
@@ -29,7 +32,7 @@ Discount Strategies: Introduce discounts or promotional offers on low-performing
 
 # Screenshot -
 
-<img src="https://github.com/gokuljujgar07/Coffee_Sales_Dashboard/blob/main/Coffee_Sales_Analysis.png?raw=true" alt="myql-logo" width="1000" height="500"/>
+<img src="https://github.com/gokuljujgar07/Coffee_Sales_Dashboard/blob/main/Coffee_Sales_Analysis.png?raw=true" alt="myql-logo" width="1700" height="470"/>
 
           (https://github.com/gokuljujgar07/Coffee_Sales_Dashboard/blob/main/Coffee_Sales_Analysis.png?raw=true) &nbsp;
 
