@@ -37,5 +37,5 @@ Discount Strategies: Introduce discounts or promotional offers on low-performing
 
 
 
-          (https://github.com/gokuljujgar07/Coffee_Sales_Dashboard/blob/main/Coffee_Sales_Analysis.png?raw=true) &nbsp;
+          (https://github.com/gokuljujgar07/Coffee_Sales_Dashboard/blob/main/Coffee_Sales.png) &nbsp;
 
