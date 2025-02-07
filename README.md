@@ -1,5 +1,9 @@
 # Coffee-Sales-Dashboard
 
+![starbucks](https://github.com/user-attachments/assets/61b1ddea-f38e-4582-9fb5-f5d607d869b9)
+
+
+
 ---
 
 
