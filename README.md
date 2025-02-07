@@ -26,7 +26,7 @@ Discount Strategies: Introduce discounts or promotional offers on low-performing
 <img src="https://github.com/gokuljujgar07/Coffee_Sales_Dashboard/blob/main/excel.jpg" alt="logo" width="200" height="100"/>
 
 
-# 🔍 Data Story -
+# 📊 Data Story -
 ## This dashboard was designed to support strategic discussions with higher-ups and provide a clear, data-driven understanding of store performance. The goal is to help identify opportunities for growth and cost optimization.
 
 
